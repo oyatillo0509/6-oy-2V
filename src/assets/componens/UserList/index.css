@@ -1,0 +1,16 @@
+.user-list-w {
+  margin: 50px auto;
+  max-width: 1200px;
+  width: 100%;
+}
+.user-list-w h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.users {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
